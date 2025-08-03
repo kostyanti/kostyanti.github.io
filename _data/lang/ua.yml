@@ -23,31 +23,31 @@ date:
   day: "%d"
   year: "%Y"
   # months itself also used in Archive page.
-  months: [Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]
+  months: [Січень, лютий, березень, квітень, травень, червень, липень, серпень, вересень, жовтень, листопад, грудень]
 
 not_found:
-  header: Page not found
-  line1: The page you requested could not be found.
-  line2: Try menu, or site search if available.
+  header: Сторінку не знайдено
+  line1: Сторінку, яку ви запитували, не вдалося знайти.
+  line2: Спробуйте скористатися меню або пошуком по сайту, якщо це можливо.
 
-no_translation_tooltip: No Translation
+no_translation_tooltip: Не перекладено українською мовою
 
 navigation:
-  contact_header: Contact
-  side_navigation_button: Side menu
-  scroll_back_to_top: Back to top
+  contact_header: Контакти
+  side_navigation_button: Бокове меню
+  scroll_back_to_top: Повернутись до верху
 
-color_scheme_switch_tooltip: Color scheme
+color_scheme_switch_tooltip: Кольорова гамма
 
 search:
-  placeholder: Search
-  noResultText: No results were found.
+  placeholder: Пошук
+  noResultText: Результатів не знайдено.
 
 image_viewer:
-  load_error: The image could not be loaded.
+  load_error: Зображення не вдалося завантажити.
 
 copyright:
-  additional_text: " All rights reserved."
+  additional_text: " Всі права захищені."
 
 creative_commons:
   some_rights_reserved: Some rights reserved.
@@ -73,15 +73,15 @@ post:
     # char or words per minute
     per_minute: 200
   pager_buttons:
-    older_post: "← Older Post"
-    newer_post: "Newer Post →"
-    first_post: First
-    last_post: Last
+    older_post: "← Попередній запис"
+    newer_post: "Новіший пост →"
+    first_post: Перший
+    last_post: Послідній
   comments:
-    noscript: Please enable JavaScript to view the Comments.
+    noscript: Будь ласка, увімкніть JavaScript, щоб переглянути коментарі.
     disqus:
-      count_title: Comments
-      click_to_load: "Load comments"
+      count_title: Коментарі
+      click_to_load: "Завантажити коментарі"
       consent:
         title: Comments (Disqus.com)
         text: >
