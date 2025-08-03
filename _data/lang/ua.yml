@@ -12,10 +12,10 @@ lng:
   country: UA
   switch_title: Ua
   offer:
-    title: Language
-    msg_page: Переглянути цю сторінку англійською мовою.
+    title: Мова
+    msg_page: Переглянути цю сторінку Українською мовою.
     # if page translation is not available, use this.
-    msg_site: To home
+    msg_site: На головну
 
 date:
   # if %b is used in the long format, it will be replaced with the corresponding item in 'months' list below.
