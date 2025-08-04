@@ -1,8 +1,13 @@
+# you can move this content to front matter of [language]/tabs/projects.md
+###########################################################
+#                Projects Page Data
+###########################################################
 page_data:
   main:
     header: "Мої Проекти"
     info: ""
     text_color: "white"
+    # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
@@ -20,7 +25,7 @@ page_data:
       color: "seagreen"
 
 list:
-
+  # example
   - type: id_windows
     project_name: "Car Showroom"
     project_excerpt: "Додаток для автоматизації автосалону"
