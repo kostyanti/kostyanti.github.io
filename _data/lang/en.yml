@@ -149,8 +149,8 @@ archives:
 
 # for about layout
 about:
-  title: About
-  button_name: About
+  title: About me
+  button_name: About me
   email_title: email
 
 # for links layout
