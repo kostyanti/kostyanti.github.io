@@ -20,10 +20,11 @@ page_data:
       color: "seagreen"
 
 list:
+
   - type: id_windows
     project_name: "Car Showroom"
     project_excerpt: "Додаток для автоматизації автосалону"
-    img: ""
+    img: ":project1_thumb.jpg"
     img_title: "Інтерфейс Car Showroom"
     date: "2022-04-01"
     post: |
@@ -42,7 +43,7 @@ list:
   - type: id_games
     project_name: "Electronic Amnesia: The Search for Reality"
     project_excerpt: "Постапокаліптична метроїдвенія з андроїдами та машинами"
-    img: ""
+    img: ":project1_thumb.jpg"
     img_title: "Концепт-арт головного героя"
     date: "2023-05-01"
     post: |
