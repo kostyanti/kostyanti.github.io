@@ -1,21 +1,65 @@
-# you can move this content to front matter of [language]/tabs/projects.md
-###########################################################
-#                Projects Page Data
-###########################################################
 page_data:
   main:
     header: "My Projects"
     info: ""
     text_color: "white"
-    # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
-      color: "gray"
+    - title: "Windows"
+      type: id_windows
+      color: "royalblue"
 
-  list:
-    
+    - title: "Web"
+      type: id_web
+      color: "orange"
+
+    - title: "Games"
+      type: id_game
+      color: "seagreen"
+
+list:
+  - type: id_windows
+    project_name: "Car Showroom"
+    project_excerpt: "Windows application for car dealership automation"
+    img: ":car_showroom_thumb.jpg"
+    img_title: "Car Showroom Interface"
+    date: "2022-04-01"
+    post: |
+      A car dealership information system is software that automates the management of vehicle sales and service.
+      The system includes functions for accounting for cars in the warehouse, tracking customer orders, managing service,
+      as well as automated tools for analysing sales data and customer requests.
+
+      **Role:** Team Lead  
+      **Team:** Independent development  
+      **Responsibilities:**  
+      • Strategy development  
+      • Project management  
+      • Software development  
+      **Technologies:** C++, Windows Forms, MySQL
+
+  - type: id_games
+    project_name: "Electronic Amnesia: The Search for Reality"
+    project_excerpt: "Post-apocalyptic metroidvania with androids and machines"
+    img: ":electronic_amnesia_thumb.jpg"
+    img_title: "Main character concept art"
+    date: "2023-05-01"
+    post: |
+      An atmospheric metroidvania that immerses the player in a post-apocalyptic world where machines that once served
+      humanity now strive to survive in the absence of their creators. The protagonist is an android who has lost
+      fragments of his memory and must explore the ruins of civilisation to uncover the truth.
+
+      The player interacts with various characters — androids and hostile machines — each with their own motives.
+      Deep combat mechanics, rich dialogues, puzzles, and surprising discoveries drive the journey toward the real goal.
+
+      **Role:** Team Lead  
+      **Team:** 3 team members  
+      **Responsibilities:**  
+      • Team management  
+      • Strategy development  
+      • Project management  
+      • Software development  
+      **Technologies:** Unity 3D, C#, Figma, Blender
+
     
