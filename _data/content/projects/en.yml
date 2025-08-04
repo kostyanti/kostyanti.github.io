@@ -5,7 +5,7 @@
 page_data:
   main:
     header: "Мої Проекти"
-    info: ""
+    info: " "
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
@@ -25,45 +25,45 @@ page_data:
       color: "seagreen"
 
   list:
-  - type: id_windows
-    project_name: "Car Showroom"
-    project_excerpt: "Application for car dealership automation"
-    img: ":project1_thumb.jpg"
-    img_title: "Car Showroom Interface"
-    date: "2022-04-01"
-    post: |
-      Car Showroom Information System is a software solution that automates the management of car sales and servicing.
-      The system includes inventory tracking, customer order management, service coordination, and tools for analyzing
-      sales data and customer inquiries.
+    - type: id_windows
+      project_name: "Car Showroom"
+      project_excerpt: "Application for car dealership automation"
+      img: ":project1_thumb.jpg"
+      img_title: "Car Showroom Interface"
+      date: "2022-04-01"
+      post: |
+        Car Showroom Information System is a software solution that automates the management of car sales and servicing.
+        The system includes inventory tracking, customer order management, service coordination, and tools for analyzing
+        sales data and customer inquiries.
 
-      **Role:** Project Lead  
-      **Team:** Solo development  
-      **Responsibilities:**  
-      • Strategy development  
-      • Project management  
-      • Programming  
-      **Technologies:** C++, Windows Forms, MySQL
+        **Role:** Project Lead  
+        **Team:** Solo development  
+        **Responsibilities:**  
+        • Strategy development  
+        • Project management  
+        • Programming  
+        **Technologies:** C++, Windows Forms, MySQL
 
-  - type: id_games
-    project_name: "Electronic Amnesia: The Search for Reality"
-    project_excerpt: "Post-apocalyptic metroidvania with androids and machines"
-    img: ":project1_thumb.jpg"
-    img_title: "Main character concept art"
-    date: "2023-05-01"
-    post: |
-      An atmospheric metroidvania that immerses the player in a post-apocalyptic world where machines that once served humanity
-      now struggle to survive without their creators. The main character — an android with fragmented memory —
-      must explore the ruins of civilization and fight for survival, recovering lost pieces of their reality.
+    - type: id_games
+      project_name: "Electronic Amnesia: The Search for Reality"
+      project_excerpt: "Post-apocalyptic metroidvania with androids and machines"
+      img: ":project1_thumb.jpg"
+      img_title: "Main character concept art"
+      date: "2023-05-01"
+      post: |
+        An atmospheric metroidvania that immerses the player in a post-apocalyptic world where machines that once served humanity
+        now struggle to survive without their creators. The main character — an android with fragmented memory —
+        must explore the ruins of civilization and fight for survival, recovering lost pieces of their reality.
 
-      The player interacts with various characters — other androids and aggressive machines — each with unique motivations.
-      Deep combat, rich dialogues, puzzles, and unexpected revelations help uncover the secrets of the past
-      and reveal the true purpose.
+        The player interacts with various characters — other androids and aggressive machines — each with unique motivations.
+        Deep combat, rich dialogues, puzzles, and unexpected revelations help uncover the secrets of the past
+        and reveal the true purpose.
 
-      **Role:** Project Lead  
-      **Team:** 3 members  
-      **Responsibilities:**  
-      • Team management  
-      • Strategy development  
-      • Project management  
-      • Programming  
-      **Technologies:** Unity 3D, C#, Figma, Blender
+        **Role:** Project Lead  
+        **Team:** 3 members  
+        **Responsibilities:**  
+        • Team management  
+        • Strategy development  
+        • Project management  
+        • Programming  
+        **Technologies:** Unity 3D, C#, Figma, Blender
