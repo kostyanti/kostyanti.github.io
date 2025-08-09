@@ -44,6 +44,7 @@ page_data:
     header: "Посилання"
     info: "Різні корисні посилання."
 
+  # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
     - title: "Програмування"
       type: id_programming
@@ -55,5 +56,4 @@ page_data:
       title: "Stack OverFlow"
       url: "https://stackoverflow.com/"
       info: "Stack Overflow — це вебсайт з питаннями та відповідями для професійних та захоплених програмістів."
-
-
+---
