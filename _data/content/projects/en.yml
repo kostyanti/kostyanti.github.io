@@ -4,7 +4,7 @@
 ###########################################################
 page_data:
   main:
-    header: "Мої Проекти"
+    header: "My Projects"
     info: " "
     text_color: "black"
     # if you don't want to use background image, comment it. back_color will be activated.
@@ -25,3 +25,143 @@ page_data:
       color: "seagreen"
 
   list:
+    - type: id_windows
+      project_name: "Windows Application: Car Showroom"
+      project_excerpt: "Information system for car dealership"
+      img: ":car_showroom_thumb.jpg"
+      img_title: "Car Showroom"
+      date: "2022-04-01"
+      post: |
+        # Windows Application: Car Showroom
+
+        Automated information system for managing vehicle sales and service in a car dealership.  
+        The system includes functions for warehouse car accounting, tracking customer orders, managing service, as well as automated tools for sales data analysis and customer requests.
+
+        **Date:** April 2022  
+        **Role:** Team Lead  
+
+        **Responsibilities:**  
+        - Strategy development  
+        - Project management  
+        - Software development  
+
+        **Team size:** Independent development  
+
+        **Technologies:**  
+        C++, Windows Forms, MySQL
+
+    - type: id_web
+      project_name: "Web Application: Campus"
+      project_excerpt: "College educational process automation system"
+      img: ":campus_thumb.jpg"
+      img_title: "Campus"
+      date: "2024-09-01"
+      post: |
+        # Web Application: Campus
+
+        Welcome to Campus!  
+        Campus is an educational process management system that automates college administrative workflows.  
+        The project was fully developed by students of Chernivtsi Polytechnic College.  
+        Its main goal is to provide students with practical experience creating corporate-level systems in a team environment.
+
+        The project uses a modern technology stack and Agile methodologies,  
+        improving technical skills and teamwork capabilities.  
+        By simulating conditions close to commercial environments,  
+        Campus helps students find their first job more easily after graduation.
+
+        The journal allows teachers to easily track attendance and grades, as well as generate performance reports.  
+        Students can view grades, comments, and class schedules in real-time,  
+        increasing transparency and control over the learning process.
+
+        **Date:** September 2024  
+        **Role:** Backend Developer  
+
+        **Responsibilities:**  
+        - Server-side development  
+
+        **Team size:** 6 members  
+
+        **Technologies:**  
+        C#, ASP.NET, MinimalAPI, PostgreSQL, HTML/SCSS, Figma, Angular, TypeScript
+
+    - type: id_game
+      project_name: "Video Game: Electronic Amnesia: the Search for Reality"
+      project_excerpt: "Atmospheric metroidvania in a post-apocalyptic world"
+      img: ":electronic_amnesia_thumb.jpg"
+      img_title: "Electronic Amnesia"
+      date: "2023-05-01"
+      post: |
+        # Video Game: Electronic Amnesia: the Search for Reality
+
+        An atmospheric metroidvania immersing the player in a post-apocalyptic world where machines that once served humanity now struggle to survive without their creators.  
+        The protagonist is an android who has lost part of his memory and is forced to explore the ruins of civilization, fight for survival, and try to restore the lost fragments of his reality.  
+        The player interacts with various characters — other androids and hostile machines, each with unique goals and motivations.  
+        Deep battles, extensive dialogues, exciting puzzles, and unexpected discoveries help uncover secrets of the past and find the path to the true goal.
+
+        **Date:** May 2023  
+        **Role:** Team Lead  
+
+        **Responsibilities:**  
+        - Team management  
+        - Strategy development  
+        - Project management  
+        - Software development  
+
+        **Team size:** 3 members  
+
+        **Technologies:**  
+        Unity 3D, C#, Figma, Blender
+
+    - type: id_game
+      project_name: "Video Game: Batla+"
+      project_excerpt: "Dynamic first-person multiplayer shooter"
+      img: ":batla_plus_thumb.jpg"
+      img_title: "Batla Plus"
+      date: "2024-08-01"
+      post: |
+        # Video Game: Batla+
+
+        A dynamic first-person multiplayer shooter where players compete as robots on scalable battle arenas.  
+        The game features fast-paced, intense matches focusing on tactical planning and quick reactions.  
+        Players can choose from various robot classes with unique characteristics and weapons.  
+        Batla combines vibrant visual style, diverse game modes, and addictive online gameplay, allowing both beginners and veterans to find their place on the battlefield.
+
+        **Date:** August 2024  
+        **Role:** Team Lead  
+
+        **Responsibilities:**  
+        - Team management  
+        - Strategy development  
+        - Project management  
+        - Software development  
+
+        **Team size:** 4 members  
+
+        **Technologies:**  
+        Unity 3D, C#, Mirror, Blender, PostgreSQL
+
+    - type: id_web
+      project_name: "Oreanda — Hotel Booking System"
+      project_excerpt: "Automated room booking and request processing"
+      img: ":oreanda_thumb.jpg"
+      img_title: "Oreanda"
+      date: "2024-08-09"
+      post: |
+        # Oreanda — Hotel Booking System
+
+        This project implements an automated hotel room booking system.  
+        Clients fill out requests specifying the number of places in the room, apartment class, and duration of stay.  
+        The administrator reviews incoming requests, selects the most suitable available room, after which the system generates an invoice for the client.
+
+        **Technologies:**  
+        Backend: Spring Boot (Java 17), Spring Data JPA, Spring Security, PostgreSQL, Lombok, JWT, Hibernate Validator, OpenAPI (springdoc).  
+        Frontend: Angular, TypeScript, HTML, SCSS.
+
+        **Features:**  
+        - Secure authentication and authorization  
+        - REST API with OpenAPI documentation  
+        - PostgreSQL database management  
+        - Data validation  
+        - Interactive user interface with Angular  
+
+        **Role in project:** Lead and developer
