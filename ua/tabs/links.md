@@ -50,10 +50,10 @@ page_data:
       color: "#62b462"
 
   list:
-    -
     # програмування
     - type: id_programming
       title: "Stack OverFlow"
       url: "https://stackoverflow.com/"
       info: "Stack Overflow — це вебсайт з питаннями та відповідями для професійних та захоплених програмістів."
+
 

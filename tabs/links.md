@@ -51,7 +51,6 @@ page_data:
       color: "#62b462"
 
   list:
-    -
     # programming
     - type: id_programming
       title: "Stack OverFlow"
