@@ -173,9 +173,18 @@ privacy-policy:
 
 # constants to be replaced for
 constants:
-  greetings: Hello
-  welcome: Welcome
-  sample: Sample
+  greetings: Welcome to my webpage
+  welcome: Hello
+  sample: |
+    Hello! My name is Konstantin Velushchak.
+    I am a Backend Developer with a passion for creating reliable and scalable solutions.
+    
+    On this page you will find:
+      - My blog where I share my knowledge and experience.
+      - Projects I have worked on and am currently working on.
+      - Useful links to help you better understand my work and interests.
+    
+    Welcome to explore and leave your feedback!
 
 # for contact form
 contact_form:
