@@ -177,14 +177,22 @@ constants:
   welcome: Hello
   sample: |
     Hello! My name is Konstantin Velushchak.
-    I am a Backend Developer with a passion for creating reliable and scalable solutions.
+    I am an experienced Backend developer passionate about building reliable, scalable, and high-quality software solutions.
     
-    On this page you will find:
-      - My blog where I share my knowledge and experience.
-      - Projects I have worked on and am currently working on.
-      - Useful links to help you better understand my work and interests.
+    Summary of Qualifications:
+    I specialize in software development, game design, and 3D modelling. My skills include object-oriented programming (C++, Java, C#), extensive experience with Unity 3D for game development, solid knowledge of MySQL, and proficiency with Blender for creating 3D assets.
     
-    Welcome to explore and leave your feedback!
+    In my projects, I have developed leadership skills including team coordination, work planning, task delegation, and evaluation of results. I adapt quickly to new technologies and methodologies, with a strong commitment to detail and quality.
+    
+    Skills:
+    - Programming Languages/Technologies: C++, C#, Java, HTML/CSS/JS, SQL
+    - Storage Systems: MySQL, PostgreSQL, MongoDB
+    - Tools: Microsoft Visual Studio, draw.io, Figma, Git (GitHub), Blender, Unity 3D
+    - Frameworks/Libraries: ASP.NET, Windows Forms, Mirror, Angular, Spring
+    - Operating Systems: Microsoft Windows, Ubuntu Linux, Oracle Linux
+    
+    Thank you for visiting and feel free to explore my work and leave feedback!
+
 
 # for contact form
 contact_form:
